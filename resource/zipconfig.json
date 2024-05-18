@@ -1,0 +1,17 @@
+{
+    "static": { 
+        "pack.mcmeta": {
+            "raw": "{\"pack\":{\"pack_format\":9,\"description\":\"shrimpcraft resources\"}}"
+        },
+        "assets/example/test.bin": {
+            "base64": "TmV2ZXIgR29ubmEgR2l2ZSBZb3UgVXAh"
+        },
+        "assets/example/songs/dynamic/rickroll.ogg": {
+            "fetch": "https://www.example.net/songs/Rick%20Astley/Never_Gonna_Give_You_Up-HiRes.ogg"
+        },
+        "assets/example/lang/fr_fr.json": {
+            "fetch": "/my-interesting-example-mod/resources/i18n/fr_fr.json"
+        }
+    }
+    }
+
