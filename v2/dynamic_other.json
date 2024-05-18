@@ -1,0 +1,59 @@
+{
+    "splashes": {
+        "default": 0,
+        "items": [
+            {
+                "files": {
+                    "assets/minecraft/texts/splash_modify.json": {
+                        "fetch": "v2/splashes.gen"
+                    }
+                }
+            },
+            {
+                "files": {
+                    "assets/minecraft/texts/splash_modify.json": {
+                        "fetch": "nopool/v2/splash_rickroll.json"
+                    }
+                }
+            },
+            {
+                "files": {
+                    "assets/minecraft/texts/splash_modify.json": {
+                        "fetch": "v2/splashes-type-2.gen"
+                    }
+                }
+            },
+            {
+                "files": {
+                    "assets/minecraft/texts/splash_modify.json": {
+                        "fetch": "v2/splashes-type-3.gen"
+                    }
+                },
+                "weight": 80
+            },
+            {
+            	"files": {},
+            	"weight": 2
+            }
+        ]
+    },
+    "splashes-whisper": {
+    	"default": 0,
+    	"items": [
+    		{
+    			"files": {},
+    			"weight": 2
+    		},
+    		{
+    			"files": {
+    				"assets/minecraft/texts/splash_modify.json": {
+    					"fetch": "v2/splashes-text-whisper-1.gen"
+    				},
+    				"assets/minecraft/texts/splashes.txt": {
+    					"raw": ""
+    				}
+    			}
+    		}
+    	]
+    }
+} 

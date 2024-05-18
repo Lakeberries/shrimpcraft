@@ -1,0 +1,10 @@
+{
+    "_deprecated": "2023-05-26",
+    "add": [
+        "Привет Россия!",
+        "End Poem Extension!"
+    ],
+    "remove": [
+        "Vanilla!"
+    ]
+} 

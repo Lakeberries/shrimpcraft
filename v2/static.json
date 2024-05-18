@@ -1,0 +1,32 @@
+{
+	"pack.mcmeta": {
+		"base64": "eyJwYWNrIjp7InBhY2tfZm9ybWF0IjoxMCwiZGVzY3JpcHRpb24iOlsiIix7InRleHQiOiJBbHRlcm5hdGl2ZSBFbmQgUG9lbSBUcmFuc2xhdGlvbnNcbiIsImNvbG9yIjoieWVsbG93IiwiYm9sZCI6dHJ1ZX0sIlJlcXVpcmVzIEVuZCBQb2VtIEV4dGVuc2lvbiBtb2QiXX19"
+	},
+	"assets/end_poem_extension/texts/end_poem/zh_hk.txt": {
+		"fetch": "nopool/v2/zh_hk.txt"
+	},
+	"assets/end_poem_extension/recommended/postcredits/zh_hk.txt": {
+		"fetch": "nopool/v2/postcredits.zh_hant.txt"
+	},
+	"assets/end_poem_extension/recommended/postcredits/zh_tw.txt": {
+		"fetch": "nopool/v2/postcredits.zh_hant.txt"
+	},
+	"assets/end_poem_extension/recommended/postcredits/zh_cn.txt": {
+		"fetch": "nopool/v2/postcredits.zh_cn.txt"
+	},
+	"assets/end_poem_extension/recommended/postcredits/en_us.txt": {
+		"raw": ""
+	},
+	"assets/end_poem_extension/texts/end_poem/zh_tw.txt": {
+		"fetch": "nopool/v2/zh_tw.txt"
+	},
+	"version.txt": {
+		"fetch": "v2/version.txt"
+	},
+	"assets/end_poem_extension/recommended/wakeup.txt": {
+		"raw": "\n\n\u00a73Wake up..."
+	},
+	"assets/end_poem_extension/post_postcredits.json": {
+		"fetch": "nopool/v2/post_postcredits.json"
+	}
+}
